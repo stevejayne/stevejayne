@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my Masters in Computer Engineering<br>👯 I’m looking to work on more open source projects<br>🌱 I’m currently learning piano<br>⚡ Fun fact: I speak 3 languages
+🔭 Just finisehd my Masters in Computer Engineering<br>👯 I’m currently learning Rust<br>⚡ Fun fact: I speak 3 languages
 
 
 ## 🌐 Socials:
