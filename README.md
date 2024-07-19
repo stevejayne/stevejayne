@@ -1,8 +1,4 @@
-# 💫 About Me:
-🔭 Just finisehd my Masters in Computer Engineering<br>👯 I’m currently learning Rust<br>⚡ Fun fact: I speak 3 languages
-
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-jayne) 
 
 # 💻 Tech Stack:
